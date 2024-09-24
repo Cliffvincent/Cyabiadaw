@@ -16,13 +16,13 @@
     "LANGUAGE": "en_US",
     "LOG_LEVEL": 1,
     "MODERATORS": [
-        "100087212564100"
+        "61557118090040"
     ],
     "ABSOLUTES": [
         ""
     ],
-    "NAME": "chilli bot",
-    "PREFIX": "!",
+    "NAME": "SHIPAZU",
+    "PREFIX": "$",
     "timezone": "Asia/Manila",
     "REFRESH": "43200000"
 }
